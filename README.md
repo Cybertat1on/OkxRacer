@@ -3,6 +3,8 @@
 
 #  Bot for OkxRacer
 
+![start-okxracer](https://github.com/user-attachments/assets/c3eb75cb-45dc-4aa3-bf3e-b2c540879e0d)
+
 # 🔥🔥 PYTHON version must be 3.10 - 3.11.5 🔥🔥
 
 > 🇷 🇺 README in russian available [[here](https://github.com/Cybertat1on/OkxRacer/blob/main/README-RU.md)]

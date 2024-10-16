@@ -12,13 +12,13 @@
 ## Features  
 | Feature                          | Supported |
 |----------------------------------|:---------:|
-| Multithreading                   |     ✅     |
-| Proxy binding to session         |     ✅     |
-| Support for  pyrogram .session   |     ✅     |
-| Auto-farming                     |     ✅     |
-| Auto-tasks (except KYC)          |     ✅     |
-| Auto-boost                       |     ✅     |
-| Auto-daily                       |     ✅     |
+| Multithreading                   |     ✔️     |
+| Proxy binding to session         |     ✔️     |
+| Support for  pyrogram .session   |     ✔️     |
+| Auto-farming                     |     ✔️     |
+| Auto-tasks (except KYC)          |     ✔️     |
+| Auto-boost                       |     ✔️     |
+| Auto-daily                       |     ✔️     |
 
 
 ## [Settings](https://github.com/Cybertat1on/OkxRacer/blob/master/.env-example/)
